@@ -1,0 +1,6 @@
+export GPG_TTY=$(tty)
+export PATH=$PATH:/usr/local/go/bin
+export PATH=$PATH:/home/robert/Qt/5.9.1/gcc_64/bin
+export CMAKE_PREFIX_PATH="/home/robert/Qt/5.9.1/gcc_64/lib/cmake"
+export EDITOR=emacs
+alias emacs="emacs -mm"
